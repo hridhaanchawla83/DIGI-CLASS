@@ -48,3 +48,7 @@ health_log.txt
 *.tmp
 tmp/
 temp/
+
+# Generated recordings/uploads
+uploads/
+*.webm
